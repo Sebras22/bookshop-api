@@ -1,0 +1,11 @@
+CREATE Client
+
+CREATE Animal -> Client
+
+CREATE Veto
+
+CREATE Appointment -> Animal -> Veto
+
+CREATE Report
+
+UPDATE Appointment -> Report
